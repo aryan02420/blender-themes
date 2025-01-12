@@ -7,3 +7,6 @@ blender := blender
 atom-one-dark.zip: ./atom-one-dark/atom_one_dark.xml ./atom-one-dark/blender_manifest.toml
 	$(blender) --version
 	$(blender) --command extension build --source-dir ./atom-one-dark --output-filepath atom-one-dark.zip
+
+clean:
+	rm -rf atom-one-dark.zip
