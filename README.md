@@ -2,4 +2,4 @@
 
 ## Atom One Dark
 
-![Atom One Dark Blender Theme](Atom_One_Dark.preview.png)
+![Atom One Dark Blender Theme](atom-one-dark.preview.png)
