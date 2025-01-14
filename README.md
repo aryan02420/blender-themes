@@ -2,4 +2,8 @@
 
 ## Atom One Dark
 
-![Atom One Dark Blender Theme](atom-one-dark.preview.png)
+https://extensions.blender.org/themes/theme-atom-one-dark/
+
+![Atom One Dark theme for blender.](./atom-one-dark/assets/preview-0.png)
+
+
