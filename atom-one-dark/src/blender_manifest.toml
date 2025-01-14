@@ -12,7 +12,7 @@ website = "https://github.com/aryan02420/blender-themes"
 # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
 tags = ["Dark", "Inspired By"]
 
-blender_version_min = "2.8.0"
+blender_version_min = "4.2.0"
 # blender_version_max = "5.1.0"
 
 license = [
