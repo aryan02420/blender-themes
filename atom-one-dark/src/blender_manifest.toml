@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "theme_atom_one_dark"
-version = "0.1.0"
+version = "0.1.1"
 name = "Atom One Dark theme"
 tagline = "Dark theme inspired by Atom's One Dark theme"
 maintainer = "aryan02420 <aryan02420@gamil.com>"
